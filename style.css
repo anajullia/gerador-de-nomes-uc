@@ -1,0 +1,76 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0
+}
+
+body{
+    background-color: black;
+}
+
+.titulo{
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Spectral;
+    font-weight: bold;
+    color: #A678BD;
+}
+
+.subtitulo{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Spectral;
+    font-weight: bold;
+    color: #A678BD;
+}
+
+.aviso{
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Spectral;
+    font-weight: bold;
+    color: #A678BD;
+}
+
+.botao{
+    width: 20vw;
+    height: 5vw;
+    margin-top: 30vh;
+    margin-left: 40vw;
+    border-radius: 1%;
+}
+
+.textobotao{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Spectral;
+    font-weight: bold;
+    color: black;
+}
+
+.nome{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Spectral;
+    font-weight: bold;
+    color: #A678BD;
+}
+
+.resultado{
+    margin-top: -30vh;
+    text-align: center;
+    font-size: 10vh;
+    color: white;
+}
